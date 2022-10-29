@@ -1,0 +1,10 @@
+{
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 30000,
+  "env": {
+    "adminUrl": "https://portal.dev.prophius-api.com"
+  },
+  "viewportWidth": 1660,
+  "viewportHeight": 960
+}
